@@ -108,7 +108,7 @@ inflation-project/
 ## 📌 Acknowledgements
 - Dataset sourced from publicly available economic data  
 - Scikit-learn documentation used for model implementation guidance  
-- ChatGPT used for debugging assistance and structuring the ML pipeline  
+- Claude used for debugging assistance and structuring the ML pipeline  
 
 ---
 
