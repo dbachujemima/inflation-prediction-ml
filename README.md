@@ -96,7 +96,7 @@ inflation-project/
 
 
 ##  How to Run This Project
-1. Clone the repository: git clone https://github.com/your-username/inflation-project.git
+1. Clone the repository: git clone  https://github.com/dbachujemima/inflation-prediction-ml.git 
 2. Install dependencies: pip install -r requirements.txt
 3. Open Jupyter Notebook: jupyter notebook
 4. Run: inflation_analysis.ipynb
