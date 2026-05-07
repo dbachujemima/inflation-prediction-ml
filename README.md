@@ -1,7 +1,7 @@
 # Inflation Prediction Using Machine Learning
 
 ## Project Overview
-This project applies machine learning techniques to analyze and predict inflation rates using global economic indicators. The goal is to understand how factors such as oil prices, GDP growth, unemployment, money supply, and exchange rates influence inflation, and to build predictive models based on these relationships.
+The purpose of this project is to predict global inflation rates following the COVID-19 pandemic using machine learning algorithms. This project analyzes economic instability, supply chain disruptions, and labor shortages that occurred between 2020 and 2024 to help provide better financial and policy insights.
 
 ---
 
@@ -105,12 +105,3 @@ inflation-project/
 
 ---
 
-## 📌 Acknowledgements
-- Dataset sourced from publicly available economic data  
-- Scikit-learn documentation used for model implementation guidance  
-- Claude used for debugging assistance and structuring the ML pipeline  
-
----
-
-## 📄 License
-This project is for academic purposes onl
